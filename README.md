@@ -1,7 +1,7 @@
 # CrackBuddyAIO
-by Mees
+###by Mees
 Discord: https://discord.gg/X28FTz4N2C
-Features:
+* Features:
 
         * Activator
         * Awareness
