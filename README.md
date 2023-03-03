@@ -19,3 +19,7 @@ Support champions:
         * Vel'Koz
         * Nilah
         * Draven
+        * Akshan
+        * Renata Glasc
+        * Riven
+        * Vel'Koz
