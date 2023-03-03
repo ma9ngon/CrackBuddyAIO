@@ -22,4 +22,3 @@ Support champions:
         * Akshan
         * Renata Glasc
         * Riven
-        * Vel'Koz
